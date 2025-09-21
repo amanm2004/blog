@@ -1,0 +1,3 @@
+.myblog-env/
+__pycache__/
+.blog.db
